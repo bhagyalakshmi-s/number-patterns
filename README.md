@@ -1,2 +1,2 @@
-# number-patterns
+# Number-patterns
 c programs for some number patterns
